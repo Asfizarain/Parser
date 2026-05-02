@@ -1,4 +1,4 @@
-iimport random
+import random
 import asyncio
 import logging
 from datetime import datetime
